@@ -61,10 +61,10 @@ a:hover {
     color: #E8DAEF;
 }
 footer {
-    padding: 2%;
-    bottom: 0%;
-    position: absolute;
     color: white;
+    position: fixed;
+    margin-top: 2%;
+    bottom: 10px;
 }
 
 .css-typing p {
