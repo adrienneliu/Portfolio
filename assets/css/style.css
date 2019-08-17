@@ -31,7 +31,7 @@ html {
     opacity: 1;
 }
 
-#profile {
+#portfolio {
     height:450px;
     overflow-y: scroll;
     width: 100%;
@@ -48,6 +48,10 @@ html {
 
 }
 
+/* .scrollable {
+    height: 400px;
+    overflow: scroll;
+} */
 img {
     height: 150px;
     width: 150px;
